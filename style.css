@@ -99,3 +99,8 @@ p {
   border-radius: 8px;
   cursor: pointer;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
